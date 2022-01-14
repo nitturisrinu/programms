@@ -1,0 +1,11 @@
+Class News
+{
+public static void m1()
+{
+s.o.p.ln("lockdown effects");
+}
+public static  void main(String args[])
+{
+News.m1();
+}
+}
